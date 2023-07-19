@@ -20,3 +20,5 @@ Una vez propuestos los KPI's se procede con la creación del storytelling para l
 
 
  **Qué hay en cada archivo/carpeta del propio repositorio?:** Análisis Exploratorio de Datos (notebook de google colaboratory) y el Readme con el procedimiento realizado en el proyecto.
+
+PD: por el error subí el EDA dos veces con nombres diferentes, pero es el mismo.
